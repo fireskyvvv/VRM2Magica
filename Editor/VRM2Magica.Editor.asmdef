@@ -1,0 +1,17 @@
+{
+    "name": "VRM2Magica.Editor",
+    "rootNamespace": "VRM2Magica.Editor",
+    "references": [
+        "GUID:e47c917724578cc43b5506c17a27e9a0",
+        "GUID:900752b649b159d4a9ee799e6dcaa33a"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

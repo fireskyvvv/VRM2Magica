@@ -1,0 +1,20 @@
+﻿{
+  "name": "com.katen.vrm2magica",
+  "displayName": "VRM2Magica",
+  "version": "0.1.0",
+  "description": "VRMSpringBone to MagicaCloth",
+  "unity": "6000.0",
+  "author": {
+    "name": "katen",
+    "url": "https://x.com/fireskyvvv"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/fireskyvvv/VRM2Magica"
+  },
+  "keywords": [
+    "VRM",
+    "Magica Cloth"
+  ],
+  "license": "MIT"
+}
